@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+whisper
+llama-cpp-python
+moviepy
+opencv-python-headless
+ultralytics
+pytube
+requests
+beautifulsoup4
+langdetect
+transformers
+torch
+confluent-kafka
